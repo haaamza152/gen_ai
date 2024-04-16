@@ -1,0 +1,9 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+langchain==0.0.316
+openai==0.27.4
+pandas
+numpy
+python-dotenv
